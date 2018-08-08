@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Proyecto_vivi</title>
 </head>
 <body>
 <h1>Mi landing Page</h1>
