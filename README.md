@@ -20,9 +20,9 @@
 
 <h3>Lista</h3>
 
-	<ul>1.Elemento1</ul>
-	<ul>2.Elemento2</ul>
-	<ul>3.Elemento3</ul>
+	1.Elemento1
+	2.Elemento2
+    3.Elemento3
 
 	
 </body>
